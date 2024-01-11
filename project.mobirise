@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Demo Sitem",
-    "currentPage": "index.html",
+    "currentPage": "egitimler.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -56,7 +56,7 @@
         "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 16,
     "versionPublish": "5.9.11",
     "screenshot": "screenshot.png"
